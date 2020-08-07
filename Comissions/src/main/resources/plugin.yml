@@ -1,0 +1,7 @@
+name: Main
+version: ${project.version}
+main: me.christo.trees.Main
+api-version: 1.13
+authors: [Christo]
+description: Custom Tree Plugin!
+website: http://www.devchristo.com
