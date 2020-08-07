@@ -1,0 +1,2 @@
+# Coins
+Physical Coins Plugin
